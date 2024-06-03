@@ -101,7 +101,7 @@ namespace GameLife
             if (IsGenerationDead())
             {
                 mainTimer.Stop();
-                MessageBox.Show("Поколение себя изжило :(");
+                MessageBox.Show(":(");
             }
         }
 
